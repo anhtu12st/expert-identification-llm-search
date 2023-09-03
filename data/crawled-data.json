@@ -1,0 +1,3474 @@
+[
+	{
+		"id": "/paper/nougat-neural-optical-understanding-for",
+		"title": "nougat: neural optical understanding for academic documents",
+		"date": "25 aug 2023",
+		"authors": [
+			"lukas blecher",
+			"guillem cucurull",
+			"thomas scialom",
+			"robert stojnic"
+		],
+		"categories": [
+			"optical character recognition (ocr)"
+		]
+	},
+	{
+		"id": "/paper/code-llama-open-foundation-models-for-code",
+		"title": "code llama: open foundation models for code",
+		"date": "24 aug 2023",
+		"authors": [
+			"baptiste rozi\u00e8re",
+			"jonas gehring",
+			"fabian gloeckle",
+			"sten sootla",
+			"itai gat",
+			"xiaoqing ellen tan",
+			"yossi adi",
+			"jingyu liu",
+			"tal remez",
+			"j\u00e9r\u00e9my rapin",
+			"artyom kozhevnikov",
+			"ivan evtimov",
+			"joanna bitton",
+			"manish bhatt",
+			"cristian canton ferrer",
+			"aaron grattafiori",
+			"wenhan xiong",
+			"alexandre d\u00e9fossez",
+			"jade copet",
+			"faisal azhar",
+			"hugo touvron",
+			"louis martin",
+			"nicolas usunier",
+			"thomas scialom",
+			"gabriel synnaeve"
+		],
+		"categories": [
+			"instruction following"
+		]
+	},
+	{
+		"id": "/paper/prompt2model-generating-deployable-models",
+		"title": "prompt2model: generating deployable models from natural language instructions",
+		"date": "23 aug 2023",
+		"authors": [
+			"vijay viswanathan",
+			"chenyang zhao",
+			"amanda bertsch",
+			"tongshuang wu",
+			"graham neubig"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/qwen-vl-a-frontier-large-vision-language",
+		"title": "qwen-vl: a frontier large vision-language model with versatile abilities",
+		"date": "24 aug 2023",
+		"authors": [
+			"jinze bai",
+			"shuai bai",
+			"shusheng yang",
+			"shijie wang",
+			"sinan tan",
+			"peng wang",
+			"junyang lin",
+			"chang zhou",
+			"jingren zhou"
+		],
+		"categories": [
+			"image captioning",
+			"language modelling",
+			"question answering",
+			"visual localization",
+			"visual question answering"
+		]
+	},
+	{
+		"id": "/paper/cotracker-it-is-better-to-track-together",
+		"title": "cotracker: it is better to track together",
+		"date": "14 jul 2023",
+		"authors": [
+			"nikita karaev",
+			"ignacio rocco",
+			"benjamin graham",
+			"natalia neverova",
+			"andrea vedaldi",
+			"christian rupprecht"
+		],
+		"categories": [
+			"motion prediction",
+			"object tracking",
+			"optical flow estimation"
+		]
+	},
+	{
+		"id": "/paper/graph-of-thoughts-solving-elaborate-problems",
+		"title": "graph of thoughts: solving elaborate problems with large language models",
+		"date": "18 aug 2023",
+		"authors": [
+			"maciej besta",
+			"nils blach",
+			"ales kubicek",
+			"robert gerstenberger",
+			"lukas gianinazzi",
+			"joanna gajda",
+			"tomasz lehmann",
+			"michal podstawski",
+			"hubert niewiadomski",
+			"piotr nyczyk",
+			"torsten hoefler"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/seamlessm4t-massively-multilingual-multimodal",
+		"title": "seamlessm4t-massively multilingual & multimodal machine translation",
+		"date": "22 aug 2023",
+		"authors": [
+			"seamless communication",
+			"lo\u00efc barrault",
+			"yu-an chung",
+			"mariano cora meglioli",
+			"david dale",
+			"ning dong",
+			"paul-ambroise duquenne",
+			"hady elsahar",
+			"hongyu gong",
+			"kevin heffernan",
+			"john hoffman",
+			"christopher klaiber",
+			"pengwei li",
+			"daniel licht",
+			"jean maillard",
+			"alice rakotoarison",
+			"kaushik ram sadagopan",
+			"guillaume wenzek",
+			"ethan ye",
+			"bapi akula",
+			"peng-jen chen",
+			"naji el hachem",
+			"brian ellis",
+			"gabriel mejia gonzalez",
+			"justin haaheim",
+			"prangthip hansanti",
+			"russ howes",
+			"bernie huang",
+			"min-jae hwang",
+			"hirofumi inaguma",
+			"somya jain",
+			"elahe kalbassi",
+			"amanda kallet",
+			"ilia kulikov",
+			"janice lam",
+			"daniel li",
+			"xutai ma",
+			"ruslan mavlyutov",
+			"benjamin peloquin",
+			"mohamed ramadan",
+			"abinesh ramakrishnan",
+			"anna sun",
+			"kevin tran",
+			"tuan tran",
+			"igor tufanov",
+			"vish vogeti",
+			"carleigh wood",
+			"yilin yang",
+			"bokai yu",
+			"pierre andrews",
+			"can balioglu",
+			"marta r. costa-juss\u00e0",
+			"onur celebi",
+			"maha elbayad",
+			"cynthia gao",
+			"francisco guzm\u00e1n",
+			"justine kao",
+			"ann lee",
+			"alexandre mourachko",
+			"juan pino",
+			"sravya popuri",
+			"christophe ropers",
+			"safiyyah saleem",
+			"holger schwenk",
+			"paden tomasello",
+			"changhan wang",
+			"jeff wang",
+			"skyler wang"
+		],
+		"categories": [
+			"automatic speech recognition",
+			"machine translation",
+			"speech-to-speech translation",
+			"speech-to-text translation",
+			"text-to-speech translation",
+			"translation"
+		]
+	},
+	{
+		"id": "/paper/anomalygpt-detecting-industrial-anomalies",
+		"title": "anomalygpt: detecting industrial anomalies using large vision-language models",
+		"date": "29 aug 2023",
+		"authors": [
+			"zhaopeng gu",
+			"bingke zhu",
+			"guibo zhu",
+			"yingying chen",
+			"ming tang",
+			"jinqiao wang"
+		],
+		"categories": [
+			"anomaly detection"
+		]
+	},
+	{
+		"id": "/paper/a-survey-on-large-language-model-based",
+		"title": "a survey on large language model based autonomous agents",
+		"date": "22 aug 2023",
+		"authors": [
+			"lei wang",
+			"chen ma",
+			"xueyang feng",
+			"zeyu zhang",
+			"hao yang",
+			"jingsen zhang",
+			"zhiyuan chen",
+			"jiakai tang",
+			"xu chen",
+			"yankai lin",
+			"wayne xin zhao",
+			"zhewei wei",
+			"ji-rong wen"
+		],
+		"categories": [
+			"language modelling",
+			"large language model"
+		]
+	},
+	{
+		"id": "/paper/wizardmath-empowering-mathematical-reasoning",
+		"title": "wizardmath: empowering mathematical reasoning for large language models via reinforced evol-instruct",
+		"date": "18 aug 2023",
+		"authors": [
+			"haipeng luo",
+			"qingfeng sun",
+			"can xu",
+			"pu zhao",
+			"jianguang lou",
+			"chongyang tao",
+			"xiubo geng",
+			"qingwei lin",
+			"shifeng chen",
+			"dongmei zhang"
+		],
+		"categories": [
+			"gsm8k",
+			"mathematical reasoning"
+		]
+	},
+	{
+		"id": "/paper/audioldm-2-learning-holistic-audio-generation",
+		"title": "audioldm 2: learning holistic audio generation with self-supervised pretraining",
+		"date": "10 aug 2023",
+		"authors": [
+			"haohe liu",
+			"qiao tian",
+			"yi yuan",
+			"xubo liu",
+			"xinhao mei",
+			"qiuqiang kong",
+			"yuping wang",
+			"wenwu wang",
+			"yuxuan wang",
+			"mark d. plumbley"
+		],
+		"categories": [
+			"audio generation",
+			"representation learning",
+			"text-to-music generation"
+		]
+	},
+	{
+		"id": "/paper/stablevideo-text-driven-consistency-aware",
+		"title": "stablevideo: text-driven consistency-aware diffusion video editing",
+		"date": "18 aug 2023",
+		"authors": [
+			"wenhao chai",
+			"xun guo",
+			"gaoang wang",
+			"yan lu"
+		],
+		"categories": [
+			"video editing"
+		]
+	},
+	{
+		"id": "/paper/dense-text-to-image-generation-with-attention",
+		"title": "dense text-to-image generation with attention modulation",
+		"date": "24 aug 2023",
+		"authors": [
+			"yunji kim",
+			"jiyoung lee",
+			"jin-hwa kim",
+			"jung-woo ha",
+			"jun-yan zhu"
+		],
+		"categories": [
+			"image generation",
+			"text-to-image generation"
+		]
+	},
+	{
+		"id": "/paper/omniquant-omnidirectionally-calibrated",
+		"title": "omniquant: omnidirectionally calibrated quantization for large language models",
+		"date": "25 aug 2023",
+		"authors": [
+			"wenqi shao",
+			"mengzhao chen",
+			"zhaoyang zhang",
+			"peng xu",
+			"lirui zhao",
+			"zhiqian li",
+			"kaipeng zhang",
+			"peng gao",
+			"yu qiao",
+			"ping luo"
+		],
+		"categories": [
+			"quantization"
+		]
+	},
+	{
+		"id": "/paper/scenimefy-learning-to-craft-anime-scene-via",
+		"title": "scenimefy: learning to craft anime scene via semi-supervised image-to-image translation",
+		"date": "24 aug 2023",
+		"authors": [
+			"yuxin jiang",
+			"liming jiang",
+			"shuai yang",
+			"chen change loy"
+		],
+		"categories": [
+			"image-to-image translation"
+		]
+	},
+	{
+		"id": "/paper/3d-gaussian-splatting-for-real-time-radiance",
+		"title": "3d gaussian splatting for real-time radiance field rendering",
+		"date": "8 aug 2023",
+		"authors": [
+			"bernhard kerbl",
+			"georgios kopanas",
+			"thomas leimk\u00fchler",
+			"george drettakis"
+		],
+		"categories": [
+			"camera calibration",
+			"novel view synthesis"
+		]
+	},
+	{
+		"id": "/paper/extending-context-window-of-large-language",
+		"title": "extending context window of large language models via positional interpolation",
+		"date": "27 jun 2023",
+		"authors": [
+			"shouyuan chen",
+			"sherman wong",
+			"liangjian chen",
+			"yuandong tian"
+		],
+		"categories": [
+			"document summarization",
+			"language modelling",
+			"retrieval"
+		]
+	},
+	{
+		"id": "/paper/codef-content-deformation-fields-for",
+		"title": "codef: content deformation fields for temporally consistent video processing",
+		"date": "15 aug 2023",
+		"authors": [
+			"hao ouyang",
+			"qiuyu wang",
+			"yuxi xiao",
+			"qingyan bai",
+			"juntao zhang",
+			"kecheng zheng",
+			"xiaowei zhou",
+			"qifeng chen",
+			"yujun shen"
+		],
+		"categories": [
+			"image-to-image translation",
+			"keypoint detection",
+			"translation"
+		]
+	},
+	{
+		"id": "/paper/demonstrate-search-predict-composing",
+		"title": "demonstrate-search-predict: composing retrieval and language models for knowledge-intensive nlp",
+		"date": "28 dec 2022",
+		"authors": [
+			"omar khattab",
+			"keshav santhanam",
+			"xiang lisa li",
+			"david hall",
+			"percy liang",
+			"christopher potts",
+			"matei zaharia"
+		],
+		"categories": [
+			"language modelling",
+			"question answering",
+			"retrieval"
+		]
+	},
+	{
+		"id": "/paper/communicative-agents-for-software-development",
+		"title": "communicative agents for software development",
+		"date": "16 jul 2023",
+		"authors": [
+			"chen qian",
+			"xin cong",
+			"wei liu",
+			"cheng yang",
+			"weize chen",
+			"yusheng su",
+			"yufan dang",
+			"jiahao li",
+			"juyuan xu",
+			"dahai li",
+			"zhiyuan liu",
+			"maosong sun"
+		],
+		"categories": [
+			"decision making"
+		]
+	},
+	{
+		"id": "/paper/partdistillation-learning-parts-from-instance",
+		"title": "partdistillation: learning parts from instance segmentation",
+		"date": "jang hyun cho",
+		"authors": [
+			"philipp kr\u00e4henb\u00fchl",
+			"vignesh ramanathan"
+		],
+		"categories": [
+			"instance segmentation",
+			"semantic segmentation"
+		]
+	},
+	{
+		"id": "/paper/codegeex-a-pre-trained-model-for-code",
+		"title": "codegeex: a pre-trained model for code generation with multilingual evaluations on humaneval-x",
+		"date": "30 mar 2023",
+		"authors": [
+			"qinkai zheng",
+			"xiao xia",
+			"xu zou",
+			"yuxiao dong",
+			"shan wang",
+			"yufei xue",
+			"zihan wang",
+			"lei shen",
+			"andi wang",
+			"yang li",
+			"teng su",
+			"zhilin yang",
+			"jie tang"
+		],
+		"categories": [
+			"code generation"
+		]
+	},
+	{
+		"id": "/paper/relighting-neural-radiance-fields-with-shadow",
+		"title": "relighting neural radiance fields with shadow and highlight hints",
+		"date": "25 aug 2023",
+		"authors": [
+			"chong zeng",
+			"guojun chen",
+			"yue dong",
+			"pieter peers",
+			"hongzhi wu",
+			"xin tong"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/direct-preference-optimization-your-language",
+		"title": "direct preference optimization: your language model is secretly a reward model",
+		"date": "29 may 2023",
+		"authors": [
+			"rafael rafailov",
+			"archit sharma",
+			"eric mitchell",
+			"stefano ermon",
+			"christopher d. manning",
+			"chelsea finn"
+		],
+		"categories": [
+			"language modelling",
+			"reinforcement-learning"
+		]
+	},
+	{
+		"id": "/paper/metagpt-meta-programming-for-multi-agent",
+		"title": "metagpt: meta programming for multi-agent collaborative framework",
+		"date": "1 aug 2023",
+		"authors": [
+			"sirui hong",
+			"xiawu zheng",
+			"jonathan chen",
+			"yuheng cheng",
+			"jinlin wang",
+			"ceyao zhang",
+			"zili wang",
+			"steven ka shing yau",
+			"zijuan lin",
+			"liyang zhou",
+			"chenyu ran",
+			"lingfeng xiao",
+			"chenglin wu"
+		],
+		"categories": [
+			"code generation"
+		]
+	},
+	{
+		"id": "/paper/tf-icon-diffusion-based-training-free-cross",
+		"title": "tf-icon: diffusion-based training-free cross-domain image composition",
+		"date": "24 jul 2023",
+		"authors": [
+			"shilin lu",
+			"yanzhu liu",
+			"adams wai-kin kong"
+		],
+		"categories": [
+			"image-guided composition",
+			"text-to-image generation"
+		]
+	},
+	{
+		"id": "/paper/facechain-a-playground-for-identity",
+		"title": "facechain: a playground for identity-preserving portrait generation",
+		"date": "28 aug 2023",
+		"authors": [
+			"yang liu",
+			"cheng yu",
+			"lei shang",
+			"ziheng wu",
+			"xingjun wang",
+			"yuze zhao",
+			"lin zhu",
+			"chen cheng",
+			"weitao chen",
+			"chao xu",
+			"haoyu xie",
+			"yuan yao",
+			"wenmeng zhou",
+			"yingda chen",
+			"xuansong xie",
+			"baigui sun"
+		],
+		"categories": [
+			"face detection",
+			"image generation"
+		]
+	},
+	{
+		"id": "/paper/rest-a-reconfigurable-spatial-temporal-graph",
+		"title": "rest: a reconfigurable spatial-temporal graph model for multi-camera multi-object tracking",
+		"date": "25 aug 2023",
+		"authors": [
+			"cheng-che cheng",
+			"min-xuan qiu",
+			"chen-kuo chiang",
+			"shang-hong lai"
+		],
+		"categories": [
+			"multi-object tracking",
+			"object tracking"
+		]
+	},
+	{
+		"id": "/paper/self-instruct-aligning-language-model-with",
+		"title": "self-instruct: aligning language models with self-generated instructions",
+		"date": "20 dec 2022",
+		"authors": [
+			"yizhong wang",
+			"yeganeh kordi",
+			"swaroop mishra",
+			"alisa liu",
+			"noah a. smith",
+			"daniel khashabi",
+			"hannaneh hajishirzi"
+		],
+		"categories": [
+			"instruction following",
+			"language modelling"
+		]
+	},
+	{
+		"id": "/paper/fastvit-a-fast-hybrid-vision-transformer",
+		"title": "fastvit: a fast hybrid vision transformer using structural reparameterization",
+		"date": "24 mar 2023",
+		"authors": [
+			"pavan kumar anasosalu vasu",
+			"james gabriel",
+			"jeff zhu",
+			"oncel tuzel",
+			"anurag ranjan"
+		],
+		"categories": [
+			"image classification"
+		]
+	},
+	{
+		"id": "/paper/neuralangelo-high-fidelity-neural-surface-1",
+		"title": "neuralangelo: high-fidelity neural surface reconstruction",
+		"date": "zhaoshuo li",
+		"authors": [
+			"thomas m\u00fcller",
+			"alex evans",
+			"russell h. taylor",
+			"mathias unberath",
+			"ming-yu liu",
+			"chen-hsuan lin"
+		],
+		"categories": [
+			"neural rendering",
+			"surface reconstruction"
+		]
+	},
+	{
+		"id": "/paper/covr-learning-composed-video-retrieval-from",
+		"title": "covr: learning composed video retrieval from web video captions",
+		"date": "28 aug 2023",
+		"authors": [
+			"lucas ventura",
+			"antoine yang",
+			"cordelia schmid",
+			"g\u00fcl varol"
+		],
+		"categories": [
+			"composed image retrieval (coir)",
+			"composed video retrieval (covr)",
+			"image retrieval",
+			"language modelling",
+			"large language model",
+			"retrieval",
+			"video retrieval",
+			"zero-shot composed image retrieval (zs-cir)"
+		]
+	},
+	{
+		"id": "/paper/chatharuhi-reviving-anime-character-in",
+		"title": "chatharuhi: reviving anime character in reality via large language model",
+		"date": "18 aug 2023",
+		"authors": [
+			"cheng li",
+			"ziang leng",
+			"chenxi yan",
+			"junyi shen",
+			"hao wang",
+			"weishi mi",
+			"yaying fei",
+			"xiaoyang feng",
+			"song yan",
+			"haosheng wang",
+			"linkang zhan",
+			"yaokai jia",
+			"pingyu wu",
+			"haozhen sun"
+		],
+		"categories": [
+			"language modelling",
+			"large language model",
+			"text2text generation",
+			"text generation"
+		]
+	},
+	{
+		"id": "/paper/gptq-accurate-post-training-quantization-for",
+		"title": "gptq: accurate post-training quantization for generative pre-trained transformers",
+		"date": "31 oct 2022",
+		"authors": [
+			"elias frantar",
+			"saleh ashkboos",
+			"torsten hoefler",
+			"dan alistarh"
+		],
+		"categories": [
+			"language modelling",
+			"model compression",
+			"quantization"
+		]
+	},
+	{
+		"id": "/paper/diffusiontrack-diffusion-model-for-multi",
+		"title": "diffusiontrack: diffusion model for multi-object tracking",
+		"date": "19 aug 2023",
+		"authors": [
+			"run luo",
+			"zikai song",
+			"lintao ma",
+			"jinlin wei",
+			"wei yang",
+			"min yang"
+		],
+		"categories": [
+			"denoising",
+			"multi-object tracking",
+			"object-detection",
+			"object detection",
+			"object tracking"
+		]
+	},
+	{
+		"id": "/paper/sotana-the-open-source-software-development",
+		"title": "sotana: the open-source software development assistant",
+		"date": "25 aug 2023",
+		"authors": [
+			"ensheng shi",
+			"fengji zhang",
+			"yanlin wang",
+			"bei chen",
+			"lun du",
+			"hongyu zhang",
+			"shi han",
+			"dongmei zhang",
+			"hongbin sun"
+		],
+		"categories": [
+			"code summarization"
+		]
+	},
+	{
+		"id": "/paper/clnerf-continual-learning-meets-nerf",
+		"title": "clnerf: continual learning meets nerf",
+		"date": "28 aug 2023",
+		"authors": [
+			"zhipeng cai",
+			"matthias mueller"
+		],
+		"categories": [
+			"continual learning",
+			"novel view synthesis"
+		]
+	},
+	{
+		"id": "/paper/residual-denoising-diffusion-models",
+		"title": "residual denoising diffusion models",
+		"date": "25 aug 2023",
+		"authors": [
+			"jiawei liu",
+			"qiang wang",
+			"huijie fan",
+			"yinong wang",
+			"yandong tang",
+			"liangqiong qu"
+		],
+		"categories": [
+			"denoising",
+			"image generation",
+			"image restoration",
+			"noise estimation"
+		]
+	},
+	{
+		"id": "/paper/wavjourney-compositional-audio-creation-with",
+		"title": "wavjourney: compositional audio creation with large language models",
+		"date": "26 jul 2023",
+		"authors": [
+			"xubo liu",
+			"zhongkai zhu",
+			"haohe liu",
+			"yi yuan",
+			"meng cui",
+			"qiushi huang",
+			"jinhua liang",
+			"yin cao",
+			"qiuqiang kong",
+			"mark d. plumbley",
+			"wenwu wang"
+		],
+		"categories": [
+			"audio generation"
+		]
+	},
+	{
+		"id": "/paper/llama-2-open-foundation-and-fine-tuned-chat",
+		"title": "llama 2: open foundation and fine-tuned chat models",
+		"date": "18 jul 2023",
+		"authors": [
+			"hugo touvron",
+			"louis martin",
+			"kevin stone",
+			"peter albert",
+			"amjad almahairi",
+			"yasmine babaei",
+			"nikolay bashlykov",
+			"soumya batra",
+			"prajjwal bhargava",
+			"shruti bhosale",
+			"dan bikel",
+			"lukas blecher",
+			"cristian canton ferrer",
+			"moya chen",
+			"guillem cucurull",
+			"david esiobu",
+			"jude fernandes",
+			"jeremy fu",
+			"wenyin fu",
+			"brian fuller",
+			"cynthia gao",
+			"vedanuj goswami",
+			"naman goyal",
+			"anthony hartshorn",
+			"saghar hosseini",
+			"rui hou",
+			"hakan inan",
+			"marcin kardas",
+			"viktor kerkez",
+			"madian khabsa",
+			"isabel kloumann",
+			"artem korenev",
+			"punit singh koura",
+			"marie-anne lachaux",
+			"thibaut lavril",
+			"jenya lee",
+			"diana liskovich",
+			"yinghai lu",
+			"yuning mao",
+			"xavier martinet",
+			"todor mihaylov",
+			"pushkar mishra",
+			"igor molybog",
+			"yixin nie",
+			"andrew poulton",
+			"jeremy reizenstein",
+			"rashi rungta",
+			"kalyan saladi",
+			"alan schelten",
+			"ruan silva",
+			"eric michael smith",
+			"ranjan subramanian",
+			"xiaoqing ellen tan",
+			"binh tang",
+			"ross taylor",
+			"adina williams",
+			"jian xiang kuan",
+			"puxin xu",
+			"zheng yan",
+			"iliyan zarov",
+			"yuchen zhang",
+			"angela fan",
+			"melanie kambadur",
+			"sharan narang",
+			"aurelien rodriguez",
+			"robert stojnic",
+			"sergey edunov",
+			"thomas scialom"
+		],
+		"categories": [
+			"arithmetic reasoning",
+			"code generation",
+			"math word problem solving",
+			"multiple choice question answering (mcqa)",
+			"multi-task language understanding",
+			"question answering",
+			"sentence completion"
+		]
+	},
+	{
+		"id": "/paper/biomedgpt-open-multimodal-generative-pre",
+		"title": "biomedgpt: open multimodal generative pre-trained transformer for biomedicine",
+		"date": "18 aug 2023",
+		"authors": [
+			"yizhen luo",
+			"jiahuan zhang",
+			"siqi fan",
+			"kai yang",
+			"yushuai wu",
+			"mu qiao",
+			"zaiqing nie"
+		],
+		"categories": [
+			"language modelling",
+			"multiple choice question answering (mcqa)",
+			"question answering"
+		]
+	},
+	{
+		"id": "/paper/giraffe-adventures-in-expanding-context",
+		"title": "giraffe: adventures in expanding context lengths in llms",
+		"date": "21 aug 2023",
+		"authors": [
+			"arka pal",
+			"deep karkhanis",
+			"manley roberts",
+			"samuel dooley",
+			"arvind sundararajan",
+			"siddartha naidu"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/agentbench-evaluating-llms-as-agents",
+		"title": "agentbench: evaluating llms as agents",
+		"date": "7 aug 2023",
+		"authors": [
+			"xiao liu",
+			"hao yu",
+			"hanchen zhang",
+			"yifan xu",
+			"xuanyu lei",
+			"hanyu lai",
+			"yu gu",
+			"hangliang ding",
+			"kaiwen men",
+			"kejuan yang",
+			"shudan zhang",
+			"xiang deng",
+			"aohan zeng",
+			"zhengxiao du",
+			"chenhui zhang",
+			"sheng shen",
+			"tianjun zhang",
+			"yu su",
+			"huan sun",
+			"minlie huang",
+			"yuxiao dong",
+			"jie tang"
+		],
+		"categories": [
+			"decision making"
+		]
+	},
+	{
+		"id": "/paper/gqa-training-generalized-multi-query",
+		"title": "gqa: training generalized multi-query transformer models from multi-head checkpoints",
+		"date": "22 may 2023",
+		"authors": [
+			"joshua ainslie",
+			"james lee-thorp",
+			"michiel de jong",
+			"yury zemlyanskiy",
+			"federico lebr\u00f3n",
+			"sumit sanghai"
+		],
+		"categories": [
+			"language modelling"
+		]
+	},
+	{
+		"id": "/paper/less-is-more-removing-text-regions-improves",
+		"title": "less is more: removing text-regions improves clip training efficiency and robustness",
+		"date": "8 may 2023",
+		"authors": [
+			"liangliang cao",
+			"bowen zhang",
+			"chen chen",
+			"yinfei yang",
+			"xianzhi du",
+			"wencong zhang",
+			"zhiyun lu",
+			"yantao zheng"
+		],
+		"categories": [
+			"adversarial text",
+			"retrieval"
+		]
+	},
+	{
+		"id": "/paper/prolificdreamer-high-fidelity-and-diverse",
+		"title": "prolificdreamer: high-fidelity and diverse text-to-3d generation with variational score distillation",
+		"date": "25 may 2023",
+		"authors": [
+			"zhengyi wang",
+			"cheng lu",
+			"yikai wang",
+			"fan bao",
+			"chongxuan li",
+			"hang su",
+			"jun zhu"
+		],
+		"categories": [
+			"text to 3d"
+		]
+	},
+	{
+		"id": "/paper/toolllm-facilitating-large-language-models-to",
+		"title": "toolllm: facilitating large language models to master 16000+ real-world apis",
+		"date": "31 jul 2023",
+		"authors": [
+			"yujia qin",
+			"shihao liang",
+			"yining ye",
+			"kunlun zhu",
+			"lan yan",
+			"yaxi lu",
+			"yankai lin",
+			"xin cong",
+			"xiangru tang",
+			"bill qian",
+			"sihan zhao",
+			"runchu tian",
+			"ruobing xie",
+			"jie zhou",
+			"mark gerstein",
+			"dahai li",
+			"zhiyuan liu",
+			"maosong sun"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/palm-scaling-language-modeling-with-pathways-1",
+		"title": "palm: scaling language modeling with pathways",
+		"date": "aakanksha chowdhery",
+		"authors": [
+			"sharan narang",
+			"jacob devlin",
+			"maarten bosma",
+			"gaurav mishra",
+			"adam roberts",
+			"paul barham",
+			"hyung won chung",
+			"charles sutton",
+			"sebastian gehrmann",
+			"parker schuh",
+			"kensen shi",
+			"sasha tsvyashchenko",
+			"joshua maynez",
+			"abhishek rao",
+			"parker barnes",
+			"yi tay",
+			"noam shazeer",
+			"vinodkumar prabhakaran",
+			"emily reif",
+			"nan du",
+			"ben hutchinson",
+			"reiner pope",
+			"james bradbury",
+			"jacob austin",
+			"michael isard",
+			"guy gur-ari",
+			"pengcheng yin",
+			"toju duke",
+			"anselm levskaya",
+			"sanjay ghemawat",
+			"sunipa dev",
+			"henryk michalewski",
+			"xavier garcia",
+			"vedant misra",
+			"kevin robinson",
+			"liam fedus",
+			"denny zhou",
+			"daphne ippolito",
+			"david luan",
+			"hyeontaek lim",
+			"barret zoph",
+			"alexander spiridonov",
+			"ryan sepassi",
+			"david dohan",
+			"shivani agrawal",
+			"mark omernick",
+			"andrew m. dai",
+			"thanumalayan sankaranarayana pillai",
+			"marie pellat",
+			"aitor lewkowycz",
+			"erica moreira",
+			"rewon child",
+			"oleksandr polozov",
+			"katherine lee",
+			"zongwei zhou",
+			"xuezhi wang",
+			"brennan saeta",
+			"mark diaz",
+			"orhan firat",
+			"michele catasta",
+			"jason wei",
+			"kathy meier-hellstern",
+			"douglas eck",
+			"jeff dean",
+			"slav petrov",
+			"noah fiedel"
+		],
+		"categories": [
+			"auto debugging",
+			"code generation",
+			"common sense reasoning",
+			"coreference resolution",
+			"cross-lingual question answering",
+			"few-shot learning",
+			"hindu knowledge",
+			"known unknowns",
+			"language modelling",
+			"logical reasoning",
+			"logic grid puzzle",
+			"memorization",
+			"multiple choice question answering (mcqa)",
+			"multi-task language understanding",
+			"natural language inference",
+			"novel concepts",
+			"question answering",
+			"reading comprehension",
+			"strategyqa",
+			"winowhy"
+		]
+	},
+	{
+		"id": "/paper/unipt-universal-parallel-tuning-for-transfer",
+		"title": "unipt: universal parallel tuning for transfer learning with efficient parameter and memory",
+		"date": "28 aug 2023",
+		"authors": [
+			"haiwen diao",
+			"bo wan",
+			"ying zhang",
+			"xu jia",
+			"huchuan lu",
+			"long chen"
+		],
+		"categories": [
+			"question answering",
+			"retrieval",
+			"text retrieval",
+			"transfer learning",
+			"video-text retrieval",
+			"visual grounding",
+			"visual question answering"
+		]
+	},
+	{
+		"id": "/paper/mevis-a-large-scale-benchmark-for-video",
+		"title": "mevis: a large-scale benchmark for video segmentation with motion expressions",
+		"date": "16 aug 2023",
+		"authors": [
+			"henghui ding",
+			"chang liu",
+			"shuting he",
+			"xudong jiang",
+			"chen change loy"
+		],
+		"categories": [
+			"motion expressions guided video segmentation",
+			"referring video object segmentation",
+			"semantic segmentation",
+			"video object segmentation",
+			"video segmentation",
+			"video semantic segmentation"
+		]
+	},
+	{
+		"id": "/paper/vision-language-models-for-vision-tasks-a",
+		"title": "vision-language models for vision tasks: a survey",
+		"date": "3 apr 2023",
+		"authors": [
+			"jingyi zhang",
+			"jiaxing huang",
+			"sheng jin",
+			"shijian lu"
+		],
+		"categories": [
+			"benchmarking",
+			"knowledge distillation",
+			"transfer learning"
+		]
+	},
+	{
+		"id": "/paper/lightglue-local-feature-matching-at-light",
+		"title": "lightglue: local feature matching at light speed",
+		"date": "23 jun 2023",
+		"authors": [
+			"philipp lindenberger",
+			"paul-edouard sarlin",
+			"marc pollefeys"
+		],
+		"categories": [
+			"3d reconstruction",
+			"homography estimation",
+			"key point matching",
+			"pose estimation",
+			"visual localization"
+		]
+	},
+	{
+		"id": "/paper/prompting-visual-language-models-for-dynamic",
+		"title": "prompting visual-language models for dynamic facial expression recognition",
+		"date": "25 aug 2023",
+		"authors": [
+			"zengqun zhao",
+			"ioannis patras"
+		],
+		"categories": [
+			"dynamic facial expression recognition",
+			"facial expression recognition",
+			"language modelling"
+		]
+	},
+	{
+		"id": "/paper/evaluating-large-language-models-trained-on",
+		"title": "evaluating large language models trained on code",
+		"date": "7 jul 2021",
+		"authors": [
+			"mark chen",
+			"jerry tworek",
+			"heewoo jun",
+			"qiming yuan",
+			"henrique ponde de oliveira pinto",
+			"jared kaplan",
+			"harri edwards",
+			"yuri burda",
+			"nicholas joseph",
+			"greg brockman",
+			"alex ray",
+			"raul puri",
+			"gretchen krueger",
+			"michael petrov",
+			"heidy khlaaf",
+			"girish sastry",
+			"pamela mishkin",
+			"brooke chan",
+			"scott gray",
+			"nick ryder",
+			"mikhail pavlov",
+			"alethea power",
+			"lukasz kaiser",
+			"mohammad bavarian",
+			"clemens winter",
+			"philippe tillet",
+			"felipe petroski such",
+			"dave cummings",
+			"matthias plappert",
+			"fotios chantzis",
+			"elizabeth barnes",
+			"ariel herbert-voss",
+			"william hebgen guss",
+			"alex nichol",
+			"alex paino",
+			"nikolas tezak",
+			"jie tang",
+			"igor babuschkin",
+			"suchir balaji",
+			"shantanu jain",
+			"william saunders",
+			"christopher hesse",
+			"andrew n. carr",
+			"jan leike",
+			"josh achiam",
+			"vedant misra",
+			"evan morikawa",
+			"alec radford",
+			"matthew knight",
+			"miles brundage",
+			"mira murati",
+			"katie mayer",
+			"peter welinder",
+			"bob mcgrew",
+			"dario amodei",
+			"sam mccandlish",
+			"ilya sutskever",
+			"wojciech zaremba"
+		],
+		"categories": [
+			"code generation",
+			"language modelling",
+			"multi-task language understanding"
+		]
+	},
+	{
+		"id": "/paper/finerecon-depth-aware-feed-forward-network",
+		"title": "finerecon: depth-aware feed-forward network for detailed 3d reconstruction",
+		"date": "4 apr 2023",
+		"authors": [
+			"noah stier",
+			"anurag ranjan",
+			"alex colburn",
+			"yajie yan",
+			"liang yang",
+			"fangchang ma",
+			"baptiste angles"
+		],
+		"categories": [
+			"3d reconstruction"
+		]
+	},
+	{
+		"id": "/paper/plan-and-solve-prompting-improving-zero-shot",
+		"title": "plan-and-solve prompting: improving zero-shot chain-of-thought reasoning by large language models",
+		"date": "6 may 2023",
+		"authors": [
+			"lei wang",
+			"wanyu xu",
+			"yihuai lan",
+			"zhiqiang hu",
+			"yunshi lan",
+			"roy ka-wei lee",
+			"ee-peng lim"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/language-models-are-few-shot-learners",
+		"title": "language models are few-shot learners",
+		"date": "tom b. brown",
+		"authors": [
+			"benjamin mann",
+			"nick ryder",
+			"melanie subbiah",
+			"jared kaplan",
+			"prafulla dhariwal",
+			"arvind neelakantan",
+			"pranav shyam",
+			"girish sastry",
+			"amanda askell",
+			"sandhini agarwal",
+			"ariel herbert-voss",
+			"gretchen krueger",
+			"tom henighan",
+			"rewon child",
+			"aditya ramesh",
+			"daniel m. ziegler",
+			"jeffrey wu",
+			"clemens winter",
+			"christopher hesse",
+			"mark chen",
+			"eric sigler",
+			"mateusz litwin",
+			"scott gray",
+			"benjamin chess",
+			"jack clark",
+			"christopher berner",
+			"sam mccandlish",
+			"alec radford",
+			"ilya sutskever",
+			"dario amodei"
+		],
+		"categories": [
+			"common sense reasoning",
+			"coreference resolution",
+			"domain adaptation",
+			"few-shot learning",
+			"language modelling",
+			"multi-task language understanding",
+			"multi-task learning",
+			"natural language inference",
+			"question answering",
+			"reading comprehension",
+			"sentence completion",
+			"unsupervised machine translation",
+			"word sense disambiguation",
+			"zero-shot learning"
+		]
+	},
+	{
+		"id": "/paper/oxfordvgg-submission-to-the-ego4d-av",
+		"title": "oxfordvgg submission to the ego4d av transcription challenge",
+		"date": "18 jul 2023",
+		"authors": [
+			"jaesung huh",
+			"max bain",
+			"andrew zisserman"
+		],
+		"categories": [
+			"automatic speech recognition",
+			"speech-recognition",
+			"speech recognition"
+		]
+	},
+	{
+		"id": "/paper/factool-factuality-detection-in-generative-ai",
+		"title": "factool: factuality detection in generative ai -- a tool augmented framework for multi-task and multi-domain scenarios",
+		"date": "25 jul 2023",
+		"authors": [
+			"i-chun chern",
+			"steffi chern",
+			"shiqi chen",
+			"weizhe yuan",
+			"kehua feng",
+			"chunting zhou",
+			"junxian he",
+			"graham neubig",
+			"pengfei liu"
+		],
+		"categories": [
+			"code generation",
+			"fact checking",
+			"mathematical reasoning"
+		]
+	},
+	{
+		"id": "/paper/a-watermark-for-large-language-models",
+		"title": "a watermark for large language models",
+		"date": "24 jan 2023",
+		"authors": [
+			"john kirchenbauer",
+			"jonas geiping",
+			"yuxin wen",
+			"jonathan katz",
+			"ian miers",
+			"tom goldstein"
+		],
+		"categories": [
+			"language modelling"
+		]
+	},
+	{
+		"id": "/paper/simulation-free-schrodinger-bridges-via-score",
+		"title": "simulation-free schr\u00f6dinger bridges via score and flow matching",
+		"date": "7 jul 2023",
+		"authors": [
+			"alexander tong",
+			"nikolay malkin",
+			"kilian fatras",
+			"lazar atanackovic",
+			"yanlei zhang",
+			"guillaume huguet",
+			"guy wolf",
+			"yoshua bengio"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/neo-360-neural-fields-for-sparse-view",
+		"title": "neo 360: neural fields for sparse view synthesis of outdoor scenes",
+		"date": "24 aug 2023",
+		"authors": [
+			"muhammad zubair irshad",
+			"sergey zakharov",
+			"katherine liu",
+			"vitor guizilini",
+			"thomas kollar",
+			"adrien gaidon",
+			"zsolt kira",
+			"rares ambrus"
+		],
+		"categories": [
+			"generalizable novel view synthesis",
+			"novel view synthesis"
+		]
+	},
+	{
+		"id": "/paper/neural-codec-language-models-are-zero-shot",
+		"title": "neural codec language models are zero-shot text to speech synthesizers",
+		"date": "5 jan 2023",
+		"authors": [
+			"chengyi wang",
+			"sanyuan chen",
+			"yu wu",
+			"ziqiang zhang",
+			"long zhou",
+			"shujie liu",
+			"zhuo chen",
+			"yanqing liu",
+			"huaming wang",
+			"jinyu li",
+			"lei he",
+			"sheng zhao",
+			"furu wei"
+		],
+		"categories": [
+			"language modelling",
+			"speech synthesis",
+			"text-to-speech synthesis"
+		]
+	},
+	{
+		"id": "/paper/trafilatura-a-web-scraping-library-and",
+		"title": "trafilatura: a web scraping library and command-line tool for text discovery and extraction",
+		"date": "adrien barbaresi",
+		"authors": [],
+		"categories": []
+	},
+	{
+		"id": "/paper/efficient-guided-generation-for-llms",
+		"title": "efficient guided generation for large language models",
+		"date": "19 jul 2023",
+		"authors": [
+			"brandon t. willard",
+			"r\u00e9mi louf"
+		],
+		"categories": [
+			"language modelling",
+			"text generation"
+		]
+	},
+	{
+		"id": "/paper/tpugraphs-a-performance-prediction-dataset-on",
+		"title": "tpugraphs: a performance prediction dataset on large tensor computational graphs",
+		"date": "25 aug 2023",
+		"authors": [
+			"phitchaya mangpo phothilimthana",
+			"sami abu-el-haija",
+			"kaidi cao",
+			"bahare fatemi",
+			"charith mendis",
+			"bryan perozzi"
+		],
+		"categories": [
+			"graph property prediction",
+			"property prediction"
+		]
+	},
+	{
+		"id": "/paper/a-survey-on-multimodal-large-language-models",
+		"title": "a survey on multimodal large language models",
+		"date": "23 jun 2023",
+		"authors": [
+			"shukang yin",
+			"chaoyou fu",
+			"sirui zhao",
+			"ke li",
+			"xing sun",
+			"tong xu",
+			"enhong chen"
+		],
+		"categories": [
+			"language modelling",
+			"large language model",
+			"optical character recognition (ocr)",
+			"visual reasoning"
+		]
+	},
+	{
+		"id": "/paper/polylm-an-open-source-polyglot-large-language",
+		"title": "polylm: an open source polyglot large language model",
+		"date": "12 jul 2023",
+		"authors": [
+			"xiangpeng wei",
+			"haoran wei",
+			"huan lin",
+			"tianhao li",
+			"pei zhang",
+			"xingzhang ren",
+			"mei li",
+			"yu wan",
+			"zhiwei cao",
+			"binbin xie",
+			"tianxiang hu",
+			"shangjie li",
+			"binyuan hui",
+			"bowen yu",
+			"dayiheng liu",
+			"baosong yang",
+			"fei huang",
+			"jun xie"
+		],
+		"categories": [
+			"language modelling",
+			"large language model",
+			"question answering"
+		]
+	},
+	{
+		"id": "/paper/mimic-it-multi-modal-in-context-instruction",
+		"title": "mimic-it: multi-modal in-context instruction tuning",
+		"date": "8 jun 2023",
+		"authors": [
+			"bo li",
+			"yuanhan zhang",
+			"liangyu chen",
+			"jinghao wang",
+			"fanyi pu",
+			"jingkang yang",
+			"chunyuan li",
+			"ziwei liu"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/tensorir-an-abstraction-for-automatic",
+		"title": "tensorir: an abstraction for automatic tensorized program optimization",
+		"date": "9 jul 2022",
+		"authors": [
+			"siyuan feng",
+			"bohan hou",
+			"hongyi jin",
+			"wuwei lin",
+			"junru shao",
+			"ruihang lai",
+			"zihao ye",
+			"lianmin zheng",
+			"cody hao yu",
+			"yong yu",
+			"tianqi chen"
+		],
+		"categories": [
+			"big-bench machine learning"
+		]
+	},
+	{
+		"id": "/paper/dual-patchnorm",
+		"title": "dual patchnorm",
+		"date": "2 feb 2023",
+		"authors": [
+			"manoj kumar",
+			"mostafa dehghani",
+			"neil houlsby"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/pythia-a-suite-for-analyzing-large-language",
+		"title": "pythia: a suite for analyzing large language models across training and scaling",
+		"date": "3 apr 2023",
+		"authors": [
+			"stella biderman",
+			"hailey schoelkopf",
+			"quentin anthony",
+			"herbie bradley",
+			"kyle o'brien",
+			"eric hallahan",
+			"mohammad aflah khan",
+			"shivanshu purohit",
+			"usvsn sai prashanth",
+			"edward raff",
+			"aviya skowron",
+			"lintang sutawika",
+			"oskar van der wal"
+		],
+		"categories": [
+			"language modelling",
+			"memorization"
+		]
+	},
+	{
+		"id": "/paper/it3d-improved-text-to-3d-generation-with",
+		"title": "it3d: improved text-to-3d generation with explicit view synthesis",
+		"date": "22 aug 2023",
+		"authors": [
+			"yiwen chen",
+			"chi zhang",
+			"xiaofeng yang",
+			"zhongang cai",
+			"gang yu",
+			"lei yang",
+			"guosheng lin"
+		],
+		"categories": [
+			"text to 3d"
+		]
+	},
+	{
+		"id": "/paper/sample-efficient-reinforcement-learning-via-2",
+		"title": "sample efficient reinforcement learning via model-ensemble exploration and exploitation",
+		"date": "5 jul 2021",
+		"authors": [
+			"yao yao",
+			"li xiao",
+			"zhicheng an",
+			"wanpeng zhang",
+			"dijun luo"
+		],
+		"categories": [
+			"continuous control",
+			"reinforcement-learning",
+			"reinforcement learning (rl)"
+		]
+	},
+	{
+		"id": "/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat",
+		"title": "gpt-4 is too smart to be safe: stealthy chat with llms via cipher",
+		"date": "12 aug 2023",
+		"authors": [
+			"youliang yuan",
+			"wenxiang jiao",
+			"wenxuan wang",
+			"jen-tse huang",
+			"pinjia he",
+			"shuming shi",
+			"zhaopeng tu"
+		],
+		"categories": [
+			"ethics"
+		]
+	},
+	{
+		"id": "/paper/bliva-a-simple-multimodal-llm-for-better",
+		"title": "bliva: a simple multimodal llm for better handling of text-rich visual questions",
+		"date": "19 aug 2023",
+		"authors": [
+			"w. hu",
+			"y. xu",
+			"y. li",
+			"w. li",
+			"z. chen",
+			"z. tu"
+		],
+		"categories": [
+			"optical character recognition (ocr)",
+			"question answering",
+			"visual question answering",
+			"visual question answering (vqa)"
+		]
+	},
+	{
+		"id": "/paper/pmet-precise-model-editing-in-a-transformer",
+		"title": "pmet: precise model editing in a transformer",
+		"date": "17 aug 2023",
+		"authors": [
+			"xiaopeng li",
+			"shasha li",
+			"shezheng song",
+			"jing yang",
+			"jun ma",
+			"jie yu"
+		],
+		"categories": [
+			"general knowledge",
+			"model editing"
+		]
+	},
+	{
+		"id": "/paper/agentverse-facilitating-multi-agent",
+		"title": "agentverse: facilitating multi-agent collaboration and exploring emergent behaviors in agents",
+		"date": "21 aug 2023",
+		"authors": [
+			"weize chen",
+			"yusheng su",
+			"jingwei zuo",
+			"cheng yang",
+			"chenfei yuan",
+			"chen qian",
+			"chi-min chan",
+			"yujia qin",
+			"yaxi lu",
+			"ruobing xie",
+			"zhiyuan liu",
+			"maosong sun",
+			"jie zhou"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/large-multimodal-models-notes-on-cvpr-2023",
+		"title": "large multimodal models: notes on cvpr 2023 tutorial",
+		"date": "26 jun 2023",
+		"authors": [
+			"chunyuan li"
+		],
+		"categories": [
+			"language modelling"
+		]
+	},
+	{
+		"id": "/paper/mmbench-is-your-multi-modal-model-an-all",
+		"title": "mmbench: is your multi-modal model an all-around player?",
+		"date": "12 jul 2023",
+		"authors": [
+			"yuan liu",
+			"haodong duan",
+			"yuanhan zhang",
+			"bo li",
+			"songyang zhang",
+			"wangbo zhao",
+			"yike yuan",
+			"jiaqi wang",
+			"conghui he",
+			"ziwei liu",
+			"kai chen",
+			"dahua lin"
+		],
+		"categories": [
+			"visual question answering"
+		]
+	},
+	{
+		"id": "/paper/better-speech-synthesis-through-scaling",
+		"title": "better speech synthesis through scaling",
+		"date": "12 may 2023",
+		"authors": [
+			"james betker"
+		],
+		"categories": [
+			"image generation",
+			"speech synthesis"
+		]
+	},
+	{
+		"id": "/paper/maintaining-plasticity-in-deep-continual",
+		"title": "loss of plasticity in deep continual learning",
+		"date": "23 jun 2023",
+		"authors": [
+			"shibhansh dohare",
+			"j. fernando hernandez-garcia",
+			"parash rahman",
+			"richard s. sutton",
+			"a. rupam mahmood"
+		],
+		"categories": [
+			"binary classification",
+			"continual learning"
+		]
+	},
+	{
+		"id": "/paper/sur-adapter-enhancing-text-to-image-pre",
+		"title": "sur-adapter: enhancing text-to-image pre-trained diffusion models with large language models",
+		"date": "9 may 2023",
+		"authors": [
+			"shanshan zhong",
+			"zhongzhan huang",
+			"wushao wen",
+			"jinghui qin",
+			"liang lin"
+		],
+		"categories": [
+			"image generation",
+			"knowledge distillation",
+			"text-to-image generation"
+		]
+	},
+	{
+		"id": "/paper/universal-and-transferable-adversarial",
+		"title": "universal and transferable adversarial attacks on aligned language models",
+		"date": "27 jul 2023",
+		"authors": [
+			"andy zou",
+			"zifan wang",
+			"j. zico kolter",
+			"matt fredrikson"
+		],
+		"categories": [
+			"adversarial attack"
+		]
+	},
+	{
+		"id": "/paper/personalized-benchmarking-with-the-ludwig",
+		"title": "personalized benchmarking with the ludwig benchmarking toolkit",
+		"date": "8 nov 2021",
+		"authors": [
+			"avanika narayan",
+			"piero molino",
+			"karan goel",
+			"willie neiswanger",
+			"christopher r\u00e9"
+		],
+		"categories": [
+			"benchmarking",
+			"hyperparameter optimization",
+			"text-classification",
+			"text classification"
+		]
+	},
+	{
+		"id": "/paper/longbench-a-bilingual-multitask-benchmark-for",
+		"title": "longbench: a bilingual, multitask benchmark for long context understanding",
+		"date": "28 aug 2023",
+		"authors": [
+			"yushi bai",
+			"xin lv",
+			"jiajie zhang",
+			"hongchang lyu",
+			"jiankai tang",
+			"zhidian huang",
+			"zhengxiao du",
+			"xiao liu",
+			"aohan zeng",
+			"lei hou",
+			"yuxiao dong",
+			"jie tang",
+			"juanzi li"
+		],
+		"categories": [
+			"code completion",
+			"few-shot learning"
+		]
+	},
+	{
+		"id": "/paper/ea-bev-edge-aware-bird-s-eye-view-projector",
+		"title": "ea-lss: edge-aware lift-splat-shot framework for 3d bev object detection",
+		"date": "31 mar 2023",
+		"authors": [
+			"haotian hu",
+			"fanyi wang",
+			"jingwen su",
+			"yaonong wang",
+			"laifeng hu",
+			"weiye fang",
+			"jingwei xu",
+			"zhiwang zhang"
+		],
+		"categories": [
+			"3d object detection",
+			"depth estimation",
+			"object-detection",
+			"object detection"
+		]
+	},
+	{
+		"id": "/paper/dalnet-a-rail-detection-network-based-on",
+		"title": "dalnet: a rail detection network based on dynamic anchor line",
+		"date": "22 aug 2023",
+		"authors": [
+			"zichen yu",
+			"quanli liu",
+			"wei wang",
+			"liyong zhang",
+			"xiaoguang zhao"
+		],
+		"categories": [
+			"lane detection"
+		]
+	},
+	{
+		"id": "/paper/advclip-downstream-agnostic-adversarial",
+		"title": "advclip: downstream-agnostic adversarial examples in multimodal contrastive learning",
+		"date": "14 aug 2023",
+		"authors": [
+			"ziqi zhou",
+			"shengshan hu",
+			"minghui li",
+			"hangtao zhang",
+			"yechao zhang",
+			"hai jin"
+		],
+		"categories": [
+			"contrastive learning",
+			"image classification",
+			"text retrieval"
+		]
+	},
+	{
+		"id": "/paper/scaling-up-gans-for-text-to-image-synthesis",
+		"title": "scaling up gans for text-to-image synthesis",
+		"date": "minguk kang",
+		"authors": [
+			"jun-yan zhu",
+			"richard zhang",
+			"jaesik park",
+			"eli shechtman",
+			"sylvain paris",
+			"taesung park"
+		],
+		"categories": [
+			"image generation",
+			"text-to-image generation"
+		]
+	},
+	{
+		"id": "/paper/seqgpt-an-out-of-the-box-large-language-model",
+		"title": "seqgpt: an out-of-the-box large language model for open domain sequence understanding",
+		"date": "21 aug 2023",
+		"authors": [
+			"tianyu yu",
+			"chengyue jiang",
+			"chao lou",
+			"shen huang",
+			"xiaobin wang",
+			"wei liu",
+			"jiong cai",
+			"yangning li",
+			"yinghui li",
+			"kewei tu",
+			"hai-tao zheng",
+			"ningyu zhang",
+			"pengjun xie",
+			"fei huang",
+			"yong jiang"
+		],
+		"categories": [
+			"entity typing",
+			"event extraction",
+			"language modelling",
+			"large language model",
+			"natural language understanding"
+		]
+	},
+	{
+		"id": "/paper/helma-a-large-scale-hallucination-evaluation",
+		"title": "halueval: a large-scale hallucination evaluation benchmark for large language models",
+		"date": "19 may 2023",
+		"authors": [
+			"junyi li",
+			"xiaoxue cheng",
+			"wayne xin zhao",
+			"jian-yun nie",
+			"ji-rong wen"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/animatediff-animate-your-personalized-text-to",
+		"title": "animatediff: animate your personalized text-to-image diffusion models without specific tuning",
+		"date": "10 jul 2023",
+		"authors": [
+			"yuwei guo",
+			"ceyuan yang",
+			"anyi rao",
+			"yaohui wang",
+			"yu qiao",
+			"dahua lin",
+			"bo dai"
+		],
+		"categories": [
+			"image animation"
+		]
+	},
+	{
+		"id": "/paper/design-based-conformal-prediction",
+		"title": "design-based conformal prediction",
+		"date": "2 mar 2023",
+		"authors": [
+			"jerzy wieczorek"
+		],
+		"categories": [
+			"conformal prediction",
+			"prediction intervals"
+		]
+	},
+	{
+		"id": "/paper/high-resolution-document-shadow-removal-via-a-1",
+		"title": "high-resolution document shadow removal via a large-scale real-world dataset and a frequency-aware shadow erasing net",
+		"date": "27 aug 2023",
+		"authors": [
+			"zinuo li",
+			"xuhang chen",
+			"chi-man pun",
+			"xiaodong cun"
+		],
+		"categories": [
+			"document shadow removal",
+			"image shadow removal",
+			"shadow removal"
+		]
+	},
+	{
+		"id": "/paper/effective-whole-body-pose-estimation-with-two",
+		"title": "effective whole-body pose estimation with two-stages distillation",
+		"date": "29 jul 2023",
+		"authors": [
+			"zhendong yang",
+			"ailing zeng",
+			"chun yuan",
+			"yu li"
+		],
+		"categories": [
+			"2d human pose estimation",
+			"knowledge distillation",
+			"pose estimation",
+			"self-knowledge distillation"
+		]
+	},
+	{
+		"id": "/paper/dotie-detecting-objects-through-temporal",
+		"title": "dotie -- detecting objects through temporal isolation of events using a spiking architecture",
+		"date": "3 oct 2022",
+		"authors": [
+			"manish nagaraj",
+			"chamika mihiranga liyanagedera",
+			"kaushik roy"
+		],
+		"categories": [
+			"autonomous navigation",
+			"object-detection",
+			"object detection"
+		]
+	},
+	{
+		"id": "/paper/vad-vectorized-scene-representation-for",
+		"title": "vad: vectorized scene representation for efficient autonomous driving",
+		"date": "21 mar 2023",
+		"authors": [
+			"bo jiang",
+			"shaoyu chen",
+			"qing xu",
+			"bencheng liao",
+			"jiajie chen",
+			"helong zhou",
+			"qian zhang",
+			"wenyu liu",
+			"chang huang",
+			"xinggang wang"
+		],
+		"categories": [
+			"autonomous driving",
+			"trajectory planning"
+		]
+	},
+	{
+		"id": "/paper/simple-and-controllable-music-generation",
+		"title": "simple and controllable music generation",
+		"date": "8 jun 2023",
+		"authors": [
+			"jade copet",
+			"felix kreuk",
+			"itai gat",
+			"tal remez",
+			"david kant",
+			"gabriel synnaeve",
+			"yossi adi",
+			"alexandre d\u00e9fossez"
+		],
+		"categories": [
+			"music generation",
+			"text-to-music generation"
+		]
+	},
+	{
+		"id": "/paper/streetsurf-extending-multi-view-implicit",
+		"title": "streetsurf: extending multi-view implicit surface reconstruction to street views",
+		"date": "8 jun 2023",
+		"authors": [
+			"jianfei guo",
+			"nianchen deng",
+			"xinyang li",
+			"yeqi bai",
+			"botian shi",
+			"chiyu wang",
+			"chenjing ding",
+			"dongliang wang",
+			"yikang li"
+		],
+		"categories": [
+			"autonomous driving",
+			"neural rendering",
+			"novel view synthesis",
+			"surface reconstruction"
+		]
+	},
+	{
+		"id": "/paper/recursive-video-lane-detection",
+		"title": "recursive video lane detection",
+		"date": "22 aug 2023",
+		"authors": [
+			"dongkwon jin",
+			"dahyun kim",
+			"chang-su kim"
+		],
+		"categories": [
+			"lane detection"
+		]
+	},
+	{
+		"id": "/paper/fingpt-democratizing-internet-scale-data-for",
+		"title": "fingpt: democratizing internet-scale data for financial large language models",
+		"date": "19 jul 2023",
+		"authors": [
+			"xiao-yang liu",
+			"guoxuan wang",
+			"daochen zha"
+		],
+		"categories": [
+			"algorithmic trading",
+			"sentiment analysis"
+		]
+	},
+	{
+		"id": "/paper/detrs-beat-yolos-on-real-time-object",
+		"title": "detrs beat yolos on real-time object detection",
+		"date": "17 apr 2023",
+		"authors": [
+			"wenyu lv",
+			"yian zhao",
+			"shangliang xu",
+			"jinman wei",
+			"guanzhong wang",
+			"cheng cui",
+			"yuning du",
+			"qingqing dang",
+			"yi liu"
+		],
+		"categories": [
+			"2d object detection",
+			"object-detection",
+			"object detection",
+			"real-time object detection"
+		]
+	},
+	{
+		"id": "/paper/train-short-test-long-attention-with-linear",
+		"title": "train short, test long: attention with linear biases enables input length extrapolation",
+		"date": "ofir press",
+		"authors": [
+			"noah a. smith",
+			"mike lewis"
+		],
+		"categories": [
+			"inductive bias",
+			"playing the game of 2048",
+			"word embeddings"
+		]
+	},
+	{
+		"id": "/paper/enhancing-visibility-in-nighttime-haze-images",
+		"title": "enhancing visibility in nighttime haze images using guided apsf and gradient adaptive convolution",
+		"date": "3 aug 2023",
+		"authors": [
+			"yeying jin",
+			"beibei lin",
+			"wending yan",
+			"wei ye",
+			"yuan yuan",
+			"robby t. tan"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/bridgedata-v2-a-dataset-for-robot-learning-at",
+		"title": "bridgedata v2: a dataset for robot learning at scale",
+		"date": "24 aug 2023",
+		"authors": [
+			"homer walke",
+			"kevin black",
+			"abraham lee",
+			"moo jin kim",
+			"max du",
+			"chongyi zheng",
+			"tony zhao",
+			"philippe hansen-estruch",
+			"quan vuong",
+			"andre he",
+			"vivek myers",
+			"kuan fang",
+			"chelsea finn",
+			"sergey levine"
+		],
+		"categories": [
+			"imitation learning",
+			"multi-task learning"
+		]
+	},
+	{
+		"id": "/paper/dlt-conditioned-layout-generation-with-joint",
+		"title": "dlt: conditioned layout generation with joint discrete-continuous diffusion layout transformer",
+		"date": "7 mar 2023",
+		"authors": [
+			"elad levi",
+			"eli brosh",
+			"mykola mykhailych",
+			"meir perez"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/segprompt-boosting-open-world-segmentation",
+		"title": "segprompt: boosting open-world segmentation via category-level prompt learning",
+		"date": "12 aug 2023",
+		"authors": [
+			"muzhi zhu",
+			"hengtao li",
+			"hao chen",
+			"chengxiang fan",
+			"weian mao",
+			"chenchen jing",
+			"yifan liu",
+			"chunhua shen"
+		],
+		"categories": [
+			"instance segmentation",
+			"semantic segmentation"
+		]
+	},
+	{
+		"id": "/paper/topic-a-parallel-association-paradigm-for",
+		"title": "topic: a parallel association paradigm for multi-object tracking under complex motions and diverse scenes",
+		"date": "22 aug 2023",
+		"authors": [
+			"xiaoyan cao",
+			"yiyao zheng",
+			"yao yao",
+			"huapeng qin",
+			"xiaoyu cao",
+			"shihui guo"
+		],
+		"categories": [
+			"multi-object tracking",
+			"object tracking"
+		]
+	},
+	{
+		"id": "/paper/bolaa-benchmarking-and-orchestrating-llm",
+		"title": "bolaa: benchmarking and orchestrating llm-augmented autonomous agents",
+		"date": "11 aug 2023",
+		"authors": [
+			"zhiwei liu",
+			"weiran yao",
+			"jianguo zhang",
+			"le xue",
+			"shelby heinecke",
+			"rithesh murthy",
+			"yihao feng",
+			"zeyuan chen",
+			"juan carlos niebles",
+			"devansh arpit",
+			"ran xu",
+			"phil mui",
+			"huan wang",
+			"caiming xiong",
+			"silvio savarese"
+		],
+		"categories": [
+			"benchmarking",
+			"decision making"
+		]
+	},
+	{
+		"id": "/paper/easyedit-an-easy-to-use-knowledge-editing",
+		"title": "easyedit: an easy-to-use knowledge editing framework for large language models",
+		"date": "14 aug 2023",
+		"authors": [
+			"peng wang",
+			"ningyu zhang",
+			"xin xie",
+			"yunzhi yao",
+			"bozhong tian",
+			"mengru wang",
+			"zekun xi",
+			"siyuan cheng",
+			"kangwei liu",
+			"guozhou zheng",
+			"huajun chen"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/the-all-seeing-project-towards-panoptic",
+		"title": "the all-seeing project: towards panoptic visual recognition and understanding of the open world",
+		"date": "3 aug 2023",
+		"authors": [
+			"weiyun wang",
+			"min shi",
+			"qingyun li",
+			"wenhai wang",
+			"zhenhang huang",
+			"linjie xing",
+			"zhe chen",
+			"hao li",
+			"xizhou zhu",
+			"zhiguo cao",
+			"yushi chen",
+			"tong lu",
+			"jifeng dai",
+			"yu qiao"
+		],
+		"categories": [
+			"question answering",
+			"retrieval",
+			"text retrieval"
+		]
+	},
+	{
+		"id": "/paper/learning-modulated-transformation-in-gans",
+		"title": "learning modulated transformation in gans",
+		"date": "29 aug 2023",
+		"authors": [
+			"ceyuan yang",
+			"qihang zhang",
+			"yinghao xu",
+			"jiapeng zhu",
+			"yujun shen",
+			"bo dai"
+		],
+		"categories": [
+			"3d-aware image synthesis",
+			"image generation",
+			"video generation"
+		]
+	},
+	{
+		"id": "/paper/art-automatic-multi-step-reasoning-and-tool",
+		"title": "art: automatic multi-step reasoning and tool-use for large language models",
+		"date": "16 mar 2023",
+		"authors": [
+			"bhargavi paranjape",
+			"scott lundberg",
+			"sameer singh",
+			"hannaneh hajishirzi",
+			"luke zettlemoyer",
+			"marco tulio ribeiro"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/sparks-of-artificial-general-intelligence",
+		"title": "sparks of artificial general intelligence: early experiments with gpt-4",
+		"date": "22 mar 2023",
+		"authors": [
+			"s\u00e9bastien bubeck",
+			"varun chandrasekaran",
+			"ronen eldan",
+			"johannes gehrke",
+			"eric horvitz",
+			"ece kamar",
+			"peter lee",
+			"yin tat lee",
+			"yuanzhi li",
+			"scott lundberg",
+			"harsha nori",
+			"hamid palangi",
+			"marco tulio ribeiro",
+			"yi zhang"
+		],
+		"categories": [
+			"arithmetic reasoning",
+			"mathematical reasoning",
+			"math word problem solving"
+		]
+	},
+	{
+		"id": "/paper/tree-of-thoughts-deliberate-problem-solving",
+		"title": "tree of thoughts: deliberate problem solving with large language models",
+		"date": "17 may 2023",
+		"authors": [
+			"shunyu yao",
+			"dian yu",
+			"jeffrey zhao",
+			"izhak shafran",
+			"thomas l. griffiths",
+			"yuan cao",
+			"karthik narasimhan"
+		],
+		"categories": [
+			"decision making",
+			"language modelling"
+		]
+	},
+	{
+		"id": "/paper/llm-int8-8-bit-matrix-multiplication-for",
+		"title": "llm.int8(): 8-bit matrix multiplication for transformers at scale",
+		"date": "15 aug 2022",
+		"authors": [
+			"tim dettmers",
+			"mike lewis",
+			"younes belkada",
+			"luke zettlemoyer"
+		],
+		"categories": [
+			"language modelling",
+			"linguistic acceptability",
+			"natural language inference",
+			"quantization",
+			"semantic textual similarity",
+			"sentiment analysis"
+		]
+	},
+	{
+		"id": "/paper/generative-agents-interactive-simulacra-of",
+		"title": "generative agents: interactive simulacra of human behavior",
+		"date": "7 apr 2023",
+		"authors": [
+			"joon sung park",
+			"joseph c. o'brien",
+			"carrie j. cai",
+			"meredith ringel morris",
+			"percy liang",
+			"michael s. bernstein"
+		],
+		"categories": [
+			"language modelling",
+			"large language model"
+		]
+	},
+	{
+		"id": "/paper/ensemble-distillation-network-learning-robust",
+		"title": "self-distillation network with ensemble prototypes: learning robust speaker representations without supervision",
+		"date": "5 aug 2023",
+		"authors": [
+			"yafeng chen",
+			"siqi zheng",
+			"qian chen"
+		],
+		"categories": [
+			"representation learning",
+			"speaker verification"
+		]
+	},
+	{
+		"id": "/paper/identity-seeking-self-supervised",
+		"title": "identity-seeking self-supervised representation learning for generalizable person re-identification",
+		"date": "17 aug 2023",
+		"authors": [
+			"zhaopeng dou",
+			"zhongdao wang",
+			"yali li",
+			"shengjin wang"
+		],
+		"categories": [
+			"generalizable person re-identification",
+			"person re-identification",
+			"representation learning"
+		]
+	},
+	{
+		"id": "/paper/empower-your-model-with-longer-and-better",
+		"title": "empower your model with longer and better context comprehension",
+		"date": "25 jul 2023",
+		"authors": [
+			"yifei gao",
+			"lei wang",
+			"jun fang",
+			"longhua hu",
+			"jun cheng"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/xflow-benchmarking-flow-behaviors-over-graphs",
+		"title": "xflow: benchmarking flow behaviors over graphs",
+		"date": "7 aug 2023",
+		"authors": [
+			"zijian zhang",
+			"zonghan zhang",
+			"zhiqian chen"
+		],
+		"categories": [
+			"benchmarking"
+		]
+	},
+	{
+		"id": "/paper/hierarchical-skeleton-meta-prototype",
+		"title": "hierarchical skeleton meta-prototype contrastive learning with hard skeleton mining for unsupervised person re-identification",
+		"date": "24 jul 2023",
+		"authors": [
+			"haocong rao",
+			"cyril leung",
+			"chunyan miao"
+		],
+		"categories": [
+			"contrastive learning",
+			"person re-identification",
+			"unsupervised person re-identification"
+		]
+	},
+	{
+		"id": "/paper/grounding-dino-marrying-dino-with-grounded",
+		"title": "grounding dino: marrying dino with grounded pre-training for open-set object detection",
+		"date": "9 mar 2023",
+		"authors": [
+			"shilong liu",
+			"zhaoyang zeng",
+			"tianhe ren",
+			"feng li",
+			"hao zhang",
+			"jie yang",
+			"chunyuan li",
+			"jianwei yang",
+			"hang su",
+			"jun zhu",
+			"lei zhang"
+		],
+		"categories": [
+			"object-detection",
+			"object detection",
+			"referring expression",
+			"referring expression comprehension",
+			"zero-shot object detection",
+			"zero shot segmentation"
+		]
+	},
+	{
+		"id": "/paper/do-not-answer-a-dataset-for-evaluating",
+		"title": "do-not-answer: a dataset for evaluating safeguards in llms",
+		"date": "25 aug 2023",
+		"authors": [
+			"yuxia wang",
+			"haonan li",
+			"xudong han",
+			"preslav nakov",
+			"timothy baldwin"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/reversion-diffusion-based-relation-inversion",
+		"title": "reversion: diffusion-based relation inversion from images",
+		"date": "23 mar 2023",
+		"authors": [
+			"ziqi huang",
+			"tianxing wu",
+			"yuming jiang",
+			"kelvin c. k. chan",
+			"ziwei liu"
+		],
+		"categories": [
+			"contrastive learning"
+		]
+	},
+	{
+		"id": "/paper/robust-policy-optimization-in-deep",
+		"title": "robust policy optimization in deep reinforcement learning",
+		"date": "14 dec 2022",
+		"authors": [
+			"md masudur rahman",
+			"yexiang xue"
+		],
+		"categories": [
+			"continuous control",
+			"data augmentation",
+			"openai gym",
+			"reinforcement-learning",
+			"reinforcement learning (rl)"
+		]
+	},
+	{
+		"id": "/paper/flatten-transformer-vision-transformer-using",
+		"title": "flatten transformer: vision transformer using focused linear attention",
+		"date": "1 aug 2023",
+		"authors": [
+			"dongchen han",
+			"xuran pan",
+			"yizeng han",
+			"shiji song",
+			"gao huang"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/omni3d-a-large-benchmark-and-model-for-3d",
+		"title": "omni3d: a large benchmark and model for 3d object detection in the wild",
+		"date": "garrick brazil",
+		"authors": [
+			"abhinav kumar",
+			"julian straub",
+			"nikhila ravi",
+			"justin johnson",
+			"georgia gkioxari"
+		],
+		"categories": [
+			"3d object detection",
+			"3d object recognition",
+			"object detection",
+			"object recognition"
+		]
+	},
+	{
+		"id": "/paper/neighbor-view-enhanced-model-for-vision-and",
+		"title": "neighbor-view enhanced model for vision and language navigation",
+		"date": "15 jul 2021",
+		"authors": [
+			"dong an",
+			"yuankai qi",
+			"yan huang",
+			"qi wu",
+			"liang wang",
+			"tieniu tan"
+		],
+		"categories": [
+			"navigate",
+			"vision and language navigation"
+		]
+	},
+	{
+		"id": "/paper/re-translation-strategies-for-long-form",
+		"title": "re-translation strategies for long form, simultaneous, spoken language translation",
+		"date": "6 dec 2019",
+		"authors": [
+			"naveen arivazhagan",
+			"colin cherry",
+			"te i",
+			"wolfgang macherey",
+			"pallavi baljekar",
+			"george foster"
+		],
+		"categories": [
+			"machine translation",
+			"speech-recognition",
+			"speech recognition",
+			"translation"
+		]
+	},
+	{
+		"id": "/paper/videocutler-surprisingly-simple-unsupervised",
+		"title": "videocutler: surprisingly simple unsupervised video instance segmentation",
+		"date": "28 aug 2023",
+		"authors": [
+			"xudong wang",
+			"ishan misra",
+			"ziyun zeng",
+			"rohit girdhar",
+			"trevor darrell"
+		],
+		"categories": [
+			"instance segmentation",
+			"optical flow estimation",
+			"semantic segmentation",
+			"video instance segmentation",
+			"video segmentation",
+			"video semantic segmentation"
+		]
+	},
+	{
+		"id": "/paper/controlcom-controllable-image-composition",
+		"title": "controlcom: controllable image composition using diffusion model",
+		"date": "19 aug 2023",
+		"authors": [
+			"bo zhang",
+			"yuxuan duan",
+			"jun lan",
+			"yan hong",
+			"huijia zhu",
+			"weiqiang wang",
+			"li niu"
+		],
+		"categories": [
+			"image generation",
+			"image harmonization"
+		]
+	},
+	{
+		"id": "/paper/sentence-level-multimodal-and-language",
+		"title": "sonar: sentence-level multimodal and language-agnostic representations",
+		"date": "22 aug 2023",
+		"authors": [
+			"paul-ambroise duquenne",
+			"holger schwenk",
+			"beno\u00eet sagot"
+		],
+		"categories": [
+			"machine translation",
+			"sentence embedding",
+			"sentence-embedding",
+			"sentence embeddings",
+			"speech-to-text translation",
+			"translation"
+		]
+	},
+	{
+		"id": "/paper/segment-anything-in-high-quality",
+		"title": "segment anything in high quality",
+		"date": "2 jun 2023",
+		"authors": [
+			"lei ke",
+			"mingqiao ye",
+			"martin danelljan",
+			"yifan liu",
+			"yu-wing tai",
+			"chi-keung tang",
+			"fisher yu"
+		],
+		"categories": [
+			"2d semantic segmentation",
+			"semantic segmentation",
+			"zero shot segmentation"
+		]
+	},
+	{
+		"id": "/paper/tiny-and-efficient-model-for-the-edge",
+		"title": "tiny and efficient model for the edge detection generalization",
+		"date": "12 aug 2023",
+		"authors": [
+			"xavier soria",
+			"yachuan li",
+			"mohammad rouhani",
+			"angel d. sappa"
+		],
+		"categories": [
+			"boundary detection",
+			"contour detection",
+			"edge detection",
+			"image segmentation",
+			"semantic segmentation"
+		]
+	},
+	{
+		"id": "/paper/unitr-a-unified-and-efficient-multi-modal",
+		"title": "unitr: a unified and efficient multi-modal transformer for bird's-eye-view representation",
+		"date": "15 aug 2023",
+		"authors": [
+			"haiyang wang",
+			"hao tang",
+			"shaoshuai shi",
+			"aoxue li",
+			"zhenguo li",
+			"bernt schiele",
+			"liwei wang"
+		],
+		"categories": [
+			"3d object detection",
+			"autonomous driving",
+			"object-detection",
+			"object detection",
+			"representation learning"
+		]
+	},
+	{
+		"id": "/paper/comospeech-one-step-speech-and-singing-voice",
+		"title": "comospeech: one-step speech and singing voice synthesis via consistency model",
+		"date": "11 may 2023",
+		"authors": [
+			"zhen ye",
+			"wei xue",
+			"xu tan",
+			"jie chen",
+			"qifeng liu",
+			"yike guo"
+		],
+		"categories": [
+			"denoising",
+			"singing voice synthesis",
+			"speech synthesis"
+		]
+	},
+	{
+		"id": "/paper/rethinking-mobile-block-for-efficient-neural",
+		"title": "rethinking mobile block for efficient attention-based models",
+		"date": "3 jan 2023",
+		"authors": [
+			"jiangning zhang",
+			"xiangtai li",
+			"jian li",
+			"liang liu",
+			"zhucun xue",
+			"boshen zhang",
+			"zhengkai jiang",
+			"tianxin huang",
+			"yabiao wang",
+			"chengjie wang"
+		],
+		"categories": [
+			"unity"
+		]
+	},
+	{
+		"id": "/paper/end-to-end-autonomous-driving-challenges-and",
+		"title": "end-to-end autonomous driving: challenges and frontiers",
+		"date": "29 jun 2023",
+		"authors": [
+			"li chen",
+			"penghao wu",
+			"kashyap chitta",
+			"bernhard jaeger",
+			"andreas geiger",
+			"hongyang li"
+		],
+		"categories": [
+			"autonomous driving",
+			"motion prediction"
+		]
+	},
+	{
+		"id": "/paper/speechgpt-empowering-large-language-models",
+		"title": "speechgpt: empowering large language models with intrinsic cross-modal conversational abilities",
+		"date": "18 may 2023",
+		"authors": [
+			"dong zhang",
+			"shimin li",
+			"xin zhang",
+			"jun zhan",
+			"pengyu wang",
+			"yaqian zhou",
+			"xipeng qiu"
+		],
+		"categories": [
+			"language modelling",
+			"large language model",
+			"speech recognition",
+			"transfer learning"
+		]
+	},
+	{
+		"id": "/paper/bevbert-topo-metric-map-pre-training-for",
+		"title": "bevbert: multimodal map pre-training for language-guided navigation",
+		"date": "8 dec 2022",
+		"authors": [
+			"dong an",
+			"yuankai qi",
+			"yangguang li",
+			"yan huang",
+			"liang wang",
+			"tieniu tan",
+			"jing shao"
+		],
+		"categories": [
+			"vision and language navigation"
+		]
+	},
+	{
+		"id": "/paper/pug-photorealistic-and-semantically",
+		"title": "pug: photorealistic and semantically controllable synthetic data for representation learning",
+		"date": "8 aug 2023",
+		"authors": [
+			"florian bordes",
+			"shashank shekhar",
+			"mark ibrahim",
+			"diane bouchacourt",
+			"pascal vincent",
+			"ari s. morcos"
+		],
+		"categories": [
+			"representation learning"
+		]
+	},
+	{
+		"id": "/paper/fine-tuning-language-models-from-human",
+		"title": "fine-tuning language models from human preferences",
+		"date": "18 sep 2019",
+		"authors": [
+			"daniel m. ziegler",
+			"nisan stiennon",
+			"jeffrey wu",
+			"tom b. brown",
+			"alec radford",
+			"dario amodei",
+			"paul christiano",
+			"geoffrey irving"
+		],
+		"categories": [
+			"descriptive",
+			"language modelling",
+			"reinforcement learning (rl)"
+		]
+	},
+	{
+		"id": "/paper/gentopia-a-collaborative-platform-for-tool",
+		"title": "gentopia: a collaborative platform for tool-augmented llms",
+		"date": "8 aug 2023",
+		"authors": [
+			"binfeng xu",
+			"xukun liu",
+			"hua shen",
+			"zeyu han",
+			"yuhan li",
+			"murong yue",
+			"zhiyuan peng",
+			"yuchen liu",
+			"ziyu yao",
+			"dongkuan xu"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/simmc-simple-masked-contrastive-learning-of",
+		"title": "simmc: simple masked contrastive learning of skeleton representations for unsupervised person re-identification",
+		"date": "21 apr 2022",
+		"authors": [
+			"haocong rao",
+			"chunyan miao"
+		],
+		"categories": [
+			"contrastive learning",
+			"person re-identification",
+			"representation learning",
+			"unsupervised person re-identification"
+		]
+	},
+	{
+		"id": "/paper/sm-sge-a-self-supervised-multi-scale-skeleton",
+		"title": "sm-sge: a self-supervised multi-scale skeleton graph encoding framework for person re-identification",
+		"date": "5 jul 2021",
+		"authors": [
+			"haocong rao",
+			"xiping hu",
+			"jun cheng",
+			"bin hu"
+		],
+		"categories": [
+			"person re-identification",
+			"relation network"
+		]
+	},
+	{
+		"id": "/paper/one-embedder-any-task-instruction-finetuned",
+		"title": "one embedder, any task: instruction-finetuned text embeddings",
+		"date": "19 dec 2022",
+		"authors": [
+			"hongjin su",
+			"weijia shi",
+			"jungo kasai",
+			"yizhong wang",
+			"yushi hu",
+			"mari ostendorf",
+			"wen-tau yih",
+			"noah a. smith",
+			"luke zettlemoyer",
+			"tao yu"
+		],
+		"categories": [
+			"information retrieval",
+			"learning word embeddings",
+			"retrieval",
+			"semantic textual similarity",
+			"text generation"
+		]
+	},
+	{
+		"id": "/paper/multi-level-graph-encoding-with-structural",
+		"title": "multi-level graph encoding with structural-collaborative relation learning for skeleton-based person re-identification",
+		"date": "6 jun 2021",
+		"authors": [
+			"haocong rao",
+			"shihao xu",
+			"xiping hu",
+			"jun cheng",
+			"bin hu"
+		],
+		"categories": [
+			"person re-identification"
+		]
+	},
+	{
+		"id": "/paper/multi-interactive-feature-learning-and-a-full",
+		"title": "multi-interactive feature learning and a full-time multi-modality benchmark for image fusion and segmentation",
+		"date": "4 aug 2023",
+		"authors": [
+			"jinyuan liu",
+			"zhu liu",
+			"guanyao wu",
+			"long ma",
+			"risheng liu",
+			"wei zhong",
+			"zhongxuan luo",
+			"xin fan"
+		],
+		"categories": [
+			"autonomous driving",
+			"thermal image segmentation"
+		]
+	},
+	{
+		"id": "/paper/a-self-supervised-gait-encoding-approach-with",
+		"title": "a self-supervised gait encoding approach with locality-awareness for 3d skeleton based person re-identification",
+		"date": "5 sep 2020",
+		"authors": [
+			"haocong rao",
+			"siqi wang",
+			"xiping hu",
+			"mingkui tan",
+			"yi guo",
+			"jun cheng",
+			"xinwang liu",
+			"bin hu"
+		],
+		"categories": [
+			"contrastive learning",
+			"person re-identification",
+			"representation learning",
+			"self-supervised learning"
+		]
+	},
+	{
+		"id": "/paper/self-supervised-gait-encoding-with-locality",
+		"title": "self-supervised gait encoding with locality-aware attention for person re-identification",
+		"date": "21 aug 2020",
+		"authors": [
+			"haocong rao",
+			"siqi wang",
+			"xiping hu",
+			"mingkui tan",
+			"huang da",
+			"jun cheng",
+			"bin hu"
+		],
+		"categories": [
+			"person re-identification"
+		]
+	},
+	{
+		"id": "/paper/donut-document-understanding-transformer",
+		"title": "ocr-free document understanding transformer",
+		"date": "30 nov 2021",
+		"authors": [
+			"geewook kim",
+			"teakgyu hong",
+			"moonbin yim",
+			"jeongyeon nam",
+			"jinyoung park",
+			"jinyeong yim",
+			"wonseok hwang",
+			"sangdoo yun",
+			"dongyoon han",
+			"seunghyun park"
+		],
+		"categories": [
+			"document image classification",
+			"optical character recognition",
+			"optical character recognition (ocr)"
+		]
+	},
+	{
+		"id": "/paper/huatuogpt-towards-taming-language-model-to-be",
+		"title": "huatuogpt, towards taming language model to be a doctor",
+		"date": "24 may 2023",
+		"authors": [
+			"hongbo zhang",
+			"junying chen",
+			"feng jiang",
+			"fei yu",
+			"zhihong chen",
+			"jianquan li",
+			"guiming chen",
+			"xiangbo wu",
+			"zhiyi zhang",
+			"qingying xiao",
+			"xiang wan",
+			"benyou wang",
+			"haizhou li"
+		],
+		"categories": [
+			"language modelling",
+			"large language model"
+		]
+	},
+	{
+		"id": "/paper/vits2-improving-quality-and-efficiency-of",
+		"title": "vits2: improving quality and efficiency of single-stage text-to-speech with adversarial learning and architecture design",
+		"date": "31 jul 2023",
+		"authors": [
+			"jungil kong",
+			"jihoon park",
+			"beomjeong kim",
+			"jeongmin kim",
+			"dohee kong",
+			"sangjin kim"
+		],
+		"categories": []
+	},
+	{
+		"id": "/paper/rosgpt-vision-commanding-robots-using-only",
+		"title": "rosgpt_vision: commanding robots using only language models' prompts",
+		"date": "22 aug 2023",
+		"authors": [
+			"bilel benjdira",
+			"anis koubaa",
+			"anas m. ali"
+		],
+		"categories": [
+			"language modelling",
+			"large language model"
+		]
+	},
+	{
+		"id": "/paper/towards-open-vocabulary-video-instance",
+		"title": "towards open-vocabulary video instance segmentation",
+		"date": "4 apr 2023",
+		"authors": [
+			"haochen wang",
+			"cilin yan",
+			"shuai wang",
+			"xiaolong jiang",
+			"xu tang",
+			"yao hu",
+			"weidi xie",
+			"efstratios gavves"
+		],
+		"categories": [
+			"instance segmentation",
+			"semantic segmentation",
+			"video instance segmentation"
+		]
+	},
+	{
+		"id": "/paper/smoothquant-accurate-and-efficient-post",
+		"title": "smoothquant: accurate and efficient post-training quantization for large language models",
+		"date": "18 nov 2022",
+		"authors": [
+			"guangxuan xiao",
+			"ji lin",
+			"mickael seznec",
+			"hao wu",
+			"julien demouth",
+			"song han"
+		],
+		"categories": [
+			"quantization"
+		]
+	},
+	{
+		"id": "/paper/awq-activation-aware-weight-quantization-for",
+		"title": "awq: activation-aware weight quantization for llm compression and acceleration",
+		"date": "1 jun 2023",
+		"authors": [
+			"ji lin",
+			"jiaming tang",
+			"haotian tang",
+			"shang yang",
+			"xingyu dang",
+			"song han"
+		],
+		"categories": [
+			"common sense reasoning",
+			"language modelling",
+			"quantization"
+		]
+	},
+	{
+		"id": "/paper/gorilla-large-language-model-connected-with",
+		"title": "gorilla: large language model connected with massive apis",
+		"date": "24 may 2023",
+		"authors": [
+			"shishir g. patil",
+			"tianjun zhang",
+			"xin wang",
+			"joseph e. gonzalez"
+		],
+		"categories": [
+			"language modelling",
+			"large language model",
+			"mathematical reasoning",
+			"program synthesis",
+			"retrieval"
+		]
+	},
+	{
+		"id": "/paper/from-smote-to-mixup-for-deep-imbalanced",
+		"title": "from smote to mixup for deep imbalanced classification",
+		"date": "29 aug 2023",
+		"authors": [
+			"wei-chao cheng",
+			"tan-ha mai",
+			"hsuan-tien lin"
+		],
+		"categories": [
+			"classification",
+			"data augmentation",
+			"imbalanced classification"
+		]
+	},
+	{
+		"id": "/paper/on-the-robustness-of-object-detection-models",
+		"title": "on the robustness of object detection models in aerial images",
+		"date": "29 aug 2023",
+		"authors": [
+			"haodong he",
+			"jian ding",
+			"gui-song xia"
+		],
+		"categories": [
+			"data augmentation",
+			"object-detection",
+			"object detection",
+			"object detection in aerial images",
+			"robust object detection"
+		]
+	},
+	{
+		"id": "/paper/chatlaw-open-source-legal-large-language",
+		"title": "chatlaw: open-source legal large language model with integrated external knowledge bases",
+		"date": "28 jun 2023",
+		"authors": [
+			"jiaxi cui",
+			"zongjian li",
+			"yang yan",
+			"bohua chen",
+			"li yuan"
+		],
+		"categories": [
+			"language modelling",
+			"large language model",
+			"retrieval"
+		]
+	},
+	{
+		"id": "/paper/an-image-is-worth-16x16-words-transformers-1",
+		"title": "an image is worth 16x16 words: transformers for image recognition at scale",
+		"date": "alexey dosovitskiy",
+		"authors": [
+			"lucas beyer",
+			"alexander kolesnikov",
+			"dirk weissenborn",
+			"xiaohua zhai",
+			"thomas unterthiner",
+			"mostafa dehghani",
+			"matthias minderer",
+			"georg heigold",
+			"sylvain gelly",
+			"jakob uszkoreit",
+			"neil houlsby"
+		],
+		"categories": [
+			"document image classification",
+			"domain generalization",
+			"fine-grained image classification",
+			"image classification",
+			"medical image segmentation",
+			"out-of-distribution generalization",
+			"semantic segmentation"
+		]
+	},
+	{
+		"id": "/paper/i-vit-integer-only-quantization-for-efficient",
+		"title": "i-vit: integer-only quantization for efficient vision transformer inference",
+		"date": "4 jul 2022",
+		"authors": [
+			"zhikai li",
+			"qingyi gu"
+		],
+		"categories": [
+			"quantization"
+		]
+	},
+	{
+		"id": "/paper/self-regulating-prompts-foundational-model",
+		"title": "self-regulating prompts: foundational model adaptation without forgetting",
+		"date": "13 jul 2023",
+		"authors": [
+			"muhammad uzair khattak",
+			"syed talal wasim",
+			"muzammal naseer",
+			"salman khan",
+			"ming-hsuan yang",
+			"fahad shahbaz khan"
+		],
+		"categories": [
+			"prompt engineering"
+		]
+	},
+	{
+		"id": "/paper/faster-segment-anything-towards-lightweight",
+		"title": "faster segment anything: towards lightweight sam for mobile applications",
+		"date": "25 jun 2023",
+		"authors": [
+			"chaoning zhang",
+			"dongshen han",
+			"yu qiao",
+			"jung uk kim",
+			"sung-ho bae",
+			"seungkyu lee",
+			"choong seon hong"
+		],
+		"categories": [
+			"image segmentation",
+			"instance segmentation",
+			"panoptic segmentation",
+			"semantic segmentation"
+		]
+	},
+	{
+		"id": "/paper/bert-pre-training-of-deep-bidirectional",
+		"title": "bert: pre-training of deep bidirectional transformers for language understanding",
+		"date": "jacob devlin",
+		"authors": [
+			"ming-wei chang",
+			"kenton lee",
+			"kristina toutanova"
+		],
+		"categories": [
+			"citation intent classification",
+			"common sense reasoning",
+			"conversational response selection",
+			"cross-lingual natural language inference",
+			"emotion recognition in conversation",
+			"linear-probe classification",
+			"linguistic acceptability",
+			"multimodal intent recognition",
+			"named entity recognition (ner)",
+			"natural language inference",
+			"natural language understanding",
+			"paraphrase identification",
+			"question answering",
+			"semantic textual similarity",
+			"sentence classification",
+			"sentiment analysis",
+			"text classification",
+			"type prediction"
+		]
+	},
+	{
+		"id": "/paper/envpool-a-highly-parallel-reinforcement",
+		"title": "envpool: a highly parallel reinforcement learning environment execution engine",
+		"date": "21 jun 2022",
+		"authors": [
+			"jiayi weng",
+			"min lin",
+			"shengyi huang",
+			"bo liu",
+			"denys makoviichuk",
+			"viktor makoviychuk",
+			"zichen liu",
+			"yufan song",
+			"ting luo",
+			"yukun jiang",
+			"zhongwen xu",
+			"shuicheng yan"
+		],
+		"categories": [
+			"reinforcement-learning",
+			"reinforcement learning (rl)"
+		]
+	},
+	{
+		"id": "/paper/albert-a-lite-bert-for-self-supervised",
+		"title": "albert: a lite bert for self-supervised learning of language representations",
+		"date": "zhenzhong lan",
+		"authors": [
+			"mingda chen",
+			"sebastian goodman",
+			"kevin gimpel",
+			"piyush sharma",
+			"radu soricut"
+		],
+		"categories": [
+			"common sense reasoning",
+			"linguistic acceptability",
+			"multimodal intent recognition",
+			"multi-task language understanding",
+			"natural language inference",
+			"question answering",
+			"self-supervised learning",
+			"semantic textual similarity"
+		]
+	},
+	{
+		"id": "/paper/h2ogpt-democratizing-large-language-models",
+		"title": "h2ogpt: democratizing large language models",
+		"date": "13 jun 2023",
+		"authors": [
+			"arno candel",
+			"jon mckinney",
+			"philipp singer",
+			"pascal pfeiffer",
+			"maximilian jeblick",
+			"prithvi prabhu",
+			"jeff gambera",
+			"mark landry",
+			"shivam bansal",
+			"ryan chesler",
+			"chun ming lee",
+			"marcos v. conde",
+			"pasha stetsenko",
+			"olivier grellier",
+			"srisatish ambati"
+		],
+		"categories": [
+			"chatbot",
+			"fairness",
+			"ner",
+			"question answering",
+			"sentiment analysis",
+			"text classification",
+			"text generation",
+			"text retrieval",
+			"text summarization",
+			"translation"
+		]
+	},
+	{
+		"id": "/paper/flashattention-2-faster-attention-with-better",
+		"title": "flashattention-2: faster attention with better parallelism and work partitioning",
+		"date": "17 jul 2023",
+		"authors": [
+			"tri dao"
+		],
+		"categories": [
+			"language modelling",
+			"video generation"
+		]
+	},
+	{
+		"id": "/paper/gpt-neox-20b-an-open-source-autoregressive-1",
+		"title": "gpt-neox-20b: an open-source autoregressive language model",
+		"date": "sid black",
+		"authors": [
+			"stella biderman",
+			"eric hallahan",
+			"quentin anthony",
+			"leo gao",
+			"laurence golding",
+			"horace he",
+			"connor leahy",
+			"kyle mcdonell",
+			"jason phang",
+			"michael pieler",
+			"usvsn sai prashanth",
+			"shivanshu purohit",
+			"laria reynolds",
+			"jonathan tow",
+			"ben wang",
+			"samuel weinbach"
+		],
+		"categories": [
+			"language modelling"
+		]
+	}
+]
