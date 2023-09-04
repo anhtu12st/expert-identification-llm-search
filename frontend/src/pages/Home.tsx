@@ -50,7 +50,7 @@ export const Home: React.FC = () => {
         renderItem={(item: any, index) => (
           <List.Item>
             <List.Item.Meta
-              title={`${index+1}. ${item.name}`}
+              title={`${index + 1}. ${item.name}`}
               description={item.description}
             />
           </List.Item>
